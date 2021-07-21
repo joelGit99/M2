@@ -1,4 +1,8 @@
-
+/**
+ * Clase para crear Juniors
+ * @author Joel
+ *
+ */
 public class Junior extends Empleado {
 	// Atributos
 	
